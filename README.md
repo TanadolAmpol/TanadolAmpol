@@ -4,7 +4,9 @@ Hi 👋 My name is Tanadol.
 Welcome to my corner of GitHub, where ideas come to life through code and collaboration.
 ----------------------------------------------------------------------------------------
 
-💡 Passion: I love exploring intersections of economics, technology, and human development to solve real-world problems. 🎓 Background: I’m an Economics student with hands-on experience in HR development, design thinking, and business analytics. 🌍 Impact-Driven: From environmental challenges to startup innovations, I strive to design solutions that make a difference.
+💡 Passion: I love exploring intersections of economics, technology, and human development to solve real-world problems. 
+🎓 Background: I’m an Economics student with hands-on experience in HR development, design thinking, and business analytics. 
+🌍 Impact-Driven: From environmental challenges to startup innovations, I strive to design solutions that make a difference.
 
 *   🌍  I'm based in Bangkok, Thailand
 *   ✉️  You can contact me at [tanadolampol07@gmail.com](mailto:tanadolampol07@gmail.com)
